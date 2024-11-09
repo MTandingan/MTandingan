@@ -4,8 +4,40 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer, Game Developer / Designer and Artist
 -------------------------------------------------------------
 
-+5 years as a full-stack software engineer specifically in web. Experienced working with a team and solo on complex projects with local and international clients in different sectors such as medical sectors and multi-sector companies. 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 - 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 👌 Technical Documentation, 👌 SDLC (Agile, Waterfall, SCRUM, Kanban, etc.) 👌 HTML5, CSS3 👌 Bootstrap 👌 Vuetify 👌 JavaScript 👌 JQuery 👌 Vue JS 3 with Composition API 👌 Node JS 👌 .NET 👌 MySQL, MSSQL 👌 Git (VCS) 👌 Jira, ClickUp, Asana, Trello 👌 Godot Script, Unity C# 👌 Software Testing 👌 Software Deployment / Product Release 👌 CI/CD Pipeline 👌 Google and Microsoft Office Suites 👌 Others with experience (Java, Outsystems, Android, Knockout JS, React, etc.) 𝗚𝗿𝗮𝗽𝗵𝗶𝗰𝘀 𝗗𝗲𝘀𝗶𝗴𝗻 𝗮𝗻𝗱 𝗚𝗮𝗺𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 👌 Adobe Photoshop 👌 Inkscape (Vector Art) 👌 Aseprite (Pixel Art) 👌 Adobe Premiere 👌 Krita 👌 Dragon Bones (Spine 2D) 👌 Animation (Skeleton and Rigging Animations) 👌 Created a game called: Atom Blitz - Space Shooter: https://nightowldigitalgames.com/
++5 years as a full-stack software engineer specifically in web. Experienced working with a team and solo on complex projects with local and international clients in different sectors such as medical sectors and multi-sector companies. 
 
+𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 - 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 
+* Technical Documentation
+* SDLC (Agile, Waterfall, SCRUM, Kanban, etc.) 
+* HTML5, CSS3 
+* Bootstrap 
+* Vuetify 
+* JavaScript 
+* JQuery 
+* Vue JS 3 with Composition API 
+* Node JS 
+* .NET 
+* MySQL, MSSQL 
+* Git (VCS) 
+* Jira, ClickUp, Asana, Trello 
+* Godot Script, Unity C# 
+* Software Testing 
+* Software Deployment / Product Release 
+* CI/CD Pipeline 
+* Google and Microsoft Office Suites 
+* Others with experience (Java, Outsystems, Android, Knockout JS, React, etc.) 
+
+𝗚𝗿𝗮𝗽𝗵𝗶𝗰𝘀 𝗗𝗲𝘀𝗶𝗴𝗻 𝗮𝗻𝗱 𝗚𝗮𝗺𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 
+* Adobe Photoshop 
+* Inkscape (Vector Art) 
+* Aseprite (Pixel Art) 
+* Adobe Premiere 
+* Krita 
+* Dragon Bones (Spine 2D) 
+* Animation (Skeleton and Rigging Animations) 
+* Created a game called: Atom Blitz - Space Shooter: https://nightowldigitalgames.com/
+
+-------------------------------------------------------------
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [mntandingan97@gmail.com](mailto:mntandingan97@gmail.com)
 * 🧠  I'm learning New technologies in .NET and Vue JS
