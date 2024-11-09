@@ -65,6 +65,4 @@ src="https://img.shields.io/github/followers/MTandingan?logo=github&style=for-th
 
 <a href="http://www.github.com/MTandingan"><img src="https://github-readme-stats.vercel.app/api?username=MTandingan&show_icons=true&hide=issues,contribs&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="MTandingan's GitHub stats" /></a>
 
-<a href="http://www.github.com/MTandingan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MTandingan&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/MTandingan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTandingan&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
