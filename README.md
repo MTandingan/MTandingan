@@ -41,8 +41,8 @@ Fullstack Web Developer, Game Developer / Designer and Artist
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [mntandingan97@gmail.com](mailto:mntandingan97@gmail.com)
 * 🧠  I'm learning New technologies in .NET and Javascript frameworks (React JS, Vue JS, Angular JS)
-* 🤝  I'm open to collaborating on Any projects that's worth challenging and valuable!
-* ⚡  I also wanted learn the entrepreneurial business side of the tech industry... I need mentor!
+* 🤝  I'm open to collaborating on any projects that's worth challenging and valuable!
+* ⚡  I also wanted to learn the entrepreneurial business side of the tech industry... I need mentor!
 
 <a href="https://www.github.com/MTandingan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MTandingan?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
