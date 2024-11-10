@@ -40,7 +40,7 @@ Fullstack Web Developer, Game Developer / Designer and Artist
 -------------------------------------------------------------
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [mntandingan97@gmail.com](mailto:mntandingan97@gmail.com)
-* 🧠  I'm learning New technologies in .NET and Vue JS
+* 🧠  I'm learning New technologies in .NET and Javascript frameworks (React JS, Vue JS, Angular JS)
 * 🤝  I'm open to collaborating on Any projects that's worth challenging and valuable!
 * ⚡  I also wanted learn the entrepreneurial business side of the tech industry... I need mentor!
 
